@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Destination II (Blue)</name>
+    <filename>/usr/share/backgrounds/destination-2/blue light.png</filename>
+    <filename-dark>/usr/share/backgrounds/destination-2/blue dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Destination II (Cyan)</name>
+    <filename>/usr/share/backgrounds/destination-2/cyan light.png</filename>
+    <filename-dark>/usr/share/backgrounds/destination-2/cyan dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Destination II (Green)</name>
+    <filename>/usr/share/backgrounds/destination-2/green light.png</filename>
+    <filename-dark>/usr/share/backgrounds/destination-2/green dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Destination II (Orange)</name>
+    <filename>/usr/share/backgrounds/destination-2/orange light.png</filename>
+    <filename-dark>/usr/share/backgrounds/destination-2/orange dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Destination II (Pink)</name>
+    <filename>/usr/share/backgrounds/destination-2/pink light.png</filename>
+    <filename-dark>/usr/share/backgrounds/destination-2/pink dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Destination II (Purple)</name>
+    <filename>/usr/share/backgrounds/destination-2/purple light.png</filename>
+    <filename-dark>/usr/share/backgrounds/destination-2/purple dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Destination II (Red)</name>
+    <filename>/usr/share/backgrounds/destination-2/red light.png</filename>
+    <filename-dark>/usr/share/backgrounds/destination-2/red dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Destination II (Slate)</name>
+    <filename>/usr/share/backgrounds/destination-2/slate light.png</filename>
+    <filename-dark>/usr/share/backgrounds/destination-2/slate dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Destination II (Yellow)</name>
+    <filename>/usr/share/backgrounds/destination-2/yellow light.png</filename>
+    <filename-dark>/usr/share/backgrounds/destination-2/yellow dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
